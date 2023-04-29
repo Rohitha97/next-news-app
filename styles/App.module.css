@@ -1,0 +1,14 @@
+.pageContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  /* padding: 3rem; */
+  margin: 2rem auto;
+  min-height: 100vh;
+}
+
+.footer {
+  flex-shrink: 0; /* prevent the footer from shrinking */
+  margin-top: auto; /* push the footer to the bottom */
+}
