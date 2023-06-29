@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@types/node": "18.16.1",
-    "@types/react": "18.2.0",
+    "@types/react": "18.2.9",
     "@types/react-dom": "18.2.1",
     "bootstrap": "^5.2.3",
     "cdbreact": "^1.5.14",
